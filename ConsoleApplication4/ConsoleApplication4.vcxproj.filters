@@ -19,4 +19,9 @@
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\..\..\..\Downloads\Łobuzy - Zbuntowany Anioł (Oficjalny Teledysk).webm">
+      <Filter>Pliki zasobów</Filter>
+    </Media>
+  </ItemGroup>
 </Project>
